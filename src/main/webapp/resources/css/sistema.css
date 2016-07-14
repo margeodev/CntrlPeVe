@@ -57,3 +57,11 @@ h1 {
 .ui-panel-grid td{
 	width: 33px
 }
+
+#ajax-status {
+	position: fixed;
+	width: 35px;
+	height: 35px;
+	top: 55px;
+	right: 15px;
+}
